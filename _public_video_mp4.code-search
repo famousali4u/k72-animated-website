@@ -1,0 +1,9 @@
+# Query: /public/video.mp4
+# ContextLines: 1
+
+1 result - 1 file
+
+src\components\home\Video.jsx:
+  5      <div className='h-full w-full'>
+  6:         <video className='h-full w-full object-cover' autoPlay loop muted src="/video.mp4"></video>
+  7      </div>
